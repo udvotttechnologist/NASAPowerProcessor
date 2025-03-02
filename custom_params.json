@@ -1,0 +1,8 @@
+{
+    "start": "20040101",
+    "end": "20240801",
+    "community": "ag",
+    "parameters": "ALLSKY_SFC_SW_DWN,CLRSKY_SFC_SW_DWN,ALLSKY_SFC_PAR_TOT,ALLSKY_SFC_UV_INDEX,T2M,T2MDEW,TS,T2M_RANGE,QV2M,RH2M,PRECTOTCORR,PS,WS2M,WD2M,GWETTOP,GWETROOT,GWETPROF",
+    "format": "csv",
+    "header": "true"
+}
