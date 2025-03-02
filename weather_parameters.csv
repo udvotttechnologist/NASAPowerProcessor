@@ -1,0 +1,97 @@
+Parameter,Description
+ALLSKY_SFC_LW_DWN,Downward Thermal Infrared (Longwave) Radiative Flux
+ALLSKY_SFC_SW_DWN,All Sky Insolation Incident on a Horizontal Surface
+ALLSKY_SFC_SW_DWN_00_GMT,All Sky Insolation Incident On A Horizontal Surface at 00 GMT
+ALLSKY_SFC_SW_DWN_03_GMT,All Sky Insolation Incident On A Horizontal Surface at 03 GMT
+ALLSKY_SFC_SW_DWN_06_GMT,All Sky Insolation Incident On A Horizontal Surface at 06 GMT
+ALLSKY_SFC_SW_DWN_09_GMT,All Sky Insolation Incident On A Horizontal Surface at 09 GMT
+ALLSKY_SFC_SW_DWN_12_GMT,All Sky Insolation Incident On A Horizontal Surface at 12 GMT
+ALLSKY_SFC_SW_DWN_15_GMT,All Sky Insolation Incident On A Horizontal Surface at 15 GMT
+ALLSKY_SFC_SW_DWN_18_GMT,All Sky Insolation Incident On A Horizontal Surface at 18 GMT
+ALLSKY_SFC_SW_DWN_21_GMT,All Sky Insolation Incident On A Horizontal Surface at 21 GMT
+ALLSKY_SFC_SW_DWN_MAX_DIFF,Maximum Monthly Difference From Monthly Averaged All Sky Insolation
+ALLSKY_SFC_SW_DWN_MIN_DIFF,Minimum Monthly Difference From Monthly Averaged All Sky Insolation
+ALLSKY_TOA_SW_DWN,Top-of-atmosphere Insolation
+CDD0,Cooling Degree Days Above 0 C
+CDD10,Cooling Degree Days Above 10 C
+CDD18_3,Cooling Degree Days Above 18.3 C
+CLD_AMT,Daylight Cloud Amount
+CLD_AMT_00_GMT,Cloud Amount at 00 GMT
+CLD_AMT_03_GMT,Cloud Amount at 03 GMT
+CLD_AMT_06_GMT,Cloud Amount at 06 GMT
+CLD_AMT_09_GMT,Cloud Amount at 09 GMT
+CLD_AMT_12_GMT,Cloud Amount at 12 GMT
+CLD_AMT_15_GMT,Cloud Amount at 15 GMT
+CLD_AMT_18_GMT,Cloud Amount at 18 GMT
+CLD_AMT_21_GMT,Cloud Amount at 21 GMT
+CLRSKY_DIFF,Clear Sky Diffuse Radiation On A Horizontal Surface
+CLRSKY_NKT,Normalized Clear Sky Insolation Clearness Index
+CLRSKY_SFC_SW_DWN,Clear Sky Insolation Incident on a Horizontal Surface
+DIFF,Diffuse Radiation On A Horizontal Surface
+DIFF_MAX,Maximum Diffuse Radiation On A Horizontal Surface
+DIFF_MIN,Minimum Diffuse Radiation On A Horizontal Surface
+DNR,Direct Normal Radiation
+DNR_MAX,Maximum Direct Normal Radiation
+DNR_MAX_DIFF,Maximum Difference From Monthly Averaged Direct Normal Radiation
+DNR_MIN,Minimum Direct Normal Radiation
+DNR_MIN_DIFF,Minimum Difference From Monthly Averaged Direct Normal Radiation
+EQVLNT_NO_SUN_BLACKDAYS_1,Equivalent Number Of NO-SUN Or BLACK Days Over A Consecutive 1-day Period
+EQVLNT_NO_SUN_BLACKDAYS_14,Equivalent Number Of NO-SUN Or BLACK Days Over A Consecutive 14-day Period
+EQVLNT_NO_SUN_BLACKDAYS_21,Equivalent Number Of NO-SUN Or BLACK Days Over A Consecutive 21-day Period
+EQVLNT_NO_SUN_BLACKDAYS_3,Equivalent Number Of NO-SUN Or BLACK Days Over A Consecutive 3-day Period
+EQVLNT_NO_SUN_BLACKDAYS_7,Equivalent Number Of NO-SUN Or BLACK Days Over A Consecutive 7-day Period
+EQVLNT_NO_SUN_BLACKDAYS_MONTH,Equivalent Number Of NO-SUN Or BLACK Days Over A Consecutive Month Period
+FROST_DAYS,Frost Days
+FRQ_BRKNCLD_10_70_00_GMT,Frequency Of Broken-cloud Skies 10 - 70 % At 00 GMT
+FRQ_BRKNCLD_10_70_03_GMT,Frequency Of Broken-cloud Skies 10 - 70 % At 03 GMT
+FRQ_BRKNCLD_10_70_06_GMT,Frequency Of Broken-cloud Skies 10 - 70 % At 06 GMT
+FRQ_BRKNCLD_10_70_09_GMT,Frequency Of Broken-cloud Skies 10 - 70 % At 09 GMT
+FRQ_BRKNCLD_10_70_12_GMT,Frequency Of Broken-cloud Skies 10 - 70 % At 12 GMT
+FRQ_BRKNCLD_10_70_15_GMT,Frequency Of Broken-cloud Skies 10 - 70 % At 15 GMT
+FRQ_BRKNCLD_10_70_18_GMT,Frequency Of Broken-cloud Skies 10 - 70 % At 18 GMT
+FRQ_BRKNCLD_10_70_21_GMT,Frequency Of Broken-cloud Skies 10 - 70 % At 21 GMT
+FRQ_CLRSKY_0_10_00_GMT,Frequency Of Clear Skies < 10 % At 00 GMT
+FRQ_CLRSKY_0_10_03_GMT,Frequency Of Clear Skies < 10 % At 03 GMT
+FRQ_CLRSKY_0_10_06_GMT,Frequency Of Clear Skies < 10 % At 06 GMT
+FRQ_CLRSKY_0_10_09_GMT,Frequency Of Clear Skies < 10 % At 09 GMT
+FRQ_CLRSKY_0_10_12_GMT,Frequency Of Clear Skies < 10 % At 12 GMT
+FRQ_CLRSKY_0_10_15_GMT,Frequency Of Clear Skies < 10 % At 15 GMT
+FRQ_CLRSKY_0_10_18_GMT,Frequency Of Clear Skies < 10 % At 18 GMT
+FRQ_CLRSKY_0_10_21_GMT,Frequency Of Clear Skies < 10 % At 21 GMT
+FRQ_NROVRCST_70_00_GMT,Frequency Of Near-overcast Skies >= 70 % At 00 GMT
+FRQ_NROVRCST_70_03_GMT,Frequency Of Near-overcast Skies >= 70 % At 03 GMT
+FRQ_NROVRCST_70_06_GMT,Frequency Of Near-overcast Skies >= 70 % At 06 GMT
+FRQ_NROVRCST_70_09_GMT,Frequency Of Near-overcast Skies >= 70 % At 09 GMT
+FRQ_NROVRCST_70_12_GMT,Frequency Of Near-overcast Skies >= 70 % At 12 GMT
+FRQ_NROVRCST_70_15_GMT,Frequency Of Near-overcast Skies >= 70 % At 15 GMT
+FRQ_NROVRCST_70_18_GMT,Frequency Of Near-overcast Skies >= 70 % At 18 GMT
+FRQ_NROVRCST_70_21_GMT,Frequency Of Near-overcast Skies >= 70 % At 21 GMT
+HDD0,Heating Degree Days Below 0 C
+HDD10,Heating Degree Days Below 10 C
+HDD18_3,Heating Degree Days Below 18.3 C
+INSOL_MIN_CONSEC_1,Minimum Available Insolation Over A Consecutive 1-day Period
+INSOL_MIN_CONSEC_14,Minimum Available Insolation Over A Consecutive 14-day Period
+INSOL_MIN_CONSEC_21,Minimum Available Insolation Over A Consecutive 21-day Period
+INSOL_MIN_CONSEC_3,Minimum Available Insolation Over A Consecutive 3-day Period
+INSOL_MIN_CONSEC_7,Minimum Available Insolation Over A Consecutive 7-day Period
+INSOL_MIN_CONSEC_MONTH,Minimum Available Insolation Over A Consecutive Month Period
+KT_CLEAR,Clear Sky Insolation Clearness Index
+MIDDAY_INSOL,Midday Insolation Incident On A Horizontal Surface
+NO_SUN_BLACKDAYS_MAX,Maximum NO-SUN Or BLACK Days
+PHIS,Surface Geopotential
+PRECTOT,Precipitation
+PS,Surface Pressure
+PSC,Corrected Atmospheric Pressure (Adjusted For Site Elevation)
+QV2M,Specific Humidity at 2 Meters
+RH2M,Relative Humidity at 2 Meters
+SG_DAY_COZ_ZEN_AVG,Daylight Average Of Hourly Cosine Solar Zenith Angles
+SG_DAY_HOUR_AVG,Daylight Hours
+SG_DEC_AVG,Declination
+SG_HR_AZM_ANG_AVG,Hourly Solar Azimuth Angles
+SG_HR_HRZ_ANG_AVG,Hourly Solar Angles Relative To The Horizon
+SG_HR_SET_ANG,Sunset Hour Angle
+SG_MAX_HRZ_ANG,Maximum Solar Angle Relative To The Horizon
+SG_MID_COZ_ZEN_ANG,Cosine Solar Zenith Angle At Mid-Time Between Sunrise And Solar Noon
+SG_NOON,Solar Noon
+SI_EF_TILTED_SURFACE_HORIZONTAL,Solar Irradiance for Equator Facing Horizontal Surface
+SI_EF_TILTED_SURFACE_LAT_MINUS15,Solar Irradiance for Lat Minus 15
