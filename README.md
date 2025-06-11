@@ -181,10 +181,3 @@ All public uses (publications, presentations, derivatives) **must include attrib
   license      = {MIT License}
 }
 ```
-
-### Terms
-- **Research Use**: Freely available for academic/non-profit research  
-- **Non-Commercial**: Commercial use requires [written permission](mailto:your@email.com)  
-- **Derivatives**: Modified versions must retain this citation notice  
-
-*For commercial licensing inquiries, please contact [your@email.com](mailto:your@email.com).*
