@@ -178,8 +178,7 @@ All public uses (publications, presentations, derivatives) **must include attrib
   journal      = {GitHub repository},
   howpublished = {\url{https://github.com/udvotttechnologist/NASAPowerProcessor.git}},
   version      = {1.0},
-  license      = {Open Source Research License v1.0},
-  note         = {For non-commercial research use only}
+  license      = {MIT License}
 }
 ```
 
