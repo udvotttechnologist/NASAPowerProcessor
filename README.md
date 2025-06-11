@@ -163,3 +163,29 @@ https://power.larc.nasa.gov/docs/services/api/
 
 ## License
 This project is open source under the MIT License.
+
+## Citation Requirement
+
+All public uses (publications, presentations, derivatives) **must include attribution** using one of these formats:
+
+### BibLaTeX (Recommended for Academic Work)
+```bibtex
+@software{NASA_Power_Processor,
+  author       = {Paul, Tonmoy},
+  title        = {NASA Power Data Processor},
+  year         = {2025},
+  publisher    = {GitHub},
+  journal      = {GitHub repository},
+  howpublished = {\url{https://github.com/udvotttechnologist/NASAPowerProcessor.git}},
+  version      = {1.0},
+  license      = {Open Source Research License v1.0},
+  note         = {For non-commercial research use only}
+}
+```
+
+### Terms
+- **Research Use**: Freely available for academic/non-profit research  
+- **Non-Commercial**: Commercial use requires [written permission](mailto:your@email.com)  
+- **Derivatives**: Modified versions must retain this citation notice  
+
+*For commercial licensing inquiries, please contact [your@email.com](mailto:your@email.com).*
