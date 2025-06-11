@@ -12,24 +12,6 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-All public uses (publications, presentations, derivatives) must include 
-   attribution in one of these formats:
-
-   A) BibLaTeX:
-   @software{NASA_Power_Processor,
-     author = {Paul, Tonmoy},
-     title = {NASA Power Data Processor},
-     year = {2025},
-     url = {https://github.com/yourusername/reponame},
-     version = {1.0},
-     license = {Open Source Research License v1.0},
-     note = {For non-commercial research use only}
-   }
-
-   B) Plain text:
-   "NASA Power Data Processor (v1.0) by Tonmoy Paul (2025). 
-   Licensed under Open Source Research License. GitHub: [URL]"
-
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
