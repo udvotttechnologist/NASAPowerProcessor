@@ -176,7 +176,7 @@ All public uses (publications, presentations, derivatives) **must include attrib
   year         = {2025},
   publisher    = {Zenodo},
   howpublished = {\url{https://github.com/udvotttechnologist/NASAPowerProcessor}},
-  doi          = {10.5281/zenodo.15651310}, % Replace with actual DOI
+  doi          = {10.5281/zenodo.15651310},
   version      = {1.0.1},
   note         = {MIT License}
 }
