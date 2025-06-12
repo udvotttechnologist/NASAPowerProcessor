@@ -170,14 +170,14 @@ All public uses (publications, presentations, derivatives) **must include attrib
 
 ### BibLaTeX (Recommended for Academic Work)
 ```bibtex
-@software{NASA_Power_Processor,
+@misc{NASA_Power_Processor,
   author       = {Paul, Tonmoy},
   title        = {NASA Power Data Processor},
   year         = {2025},
   publisher    = {GitHub},
-  journal      = {GitHub repository},
   howpublished = {\url{https://github.com/udvotttechnologist/NASAPowerProcessor.git}},
   version      = {1.0},
-  license      = {MIT License}
+  note         = {MIT License}
 }
+
 ```
